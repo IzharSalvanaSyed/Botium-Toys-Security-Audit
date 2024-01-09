@@ -12,5 +12,5 @@ Review Botium's IT manager’s scope, goals, and risk assessment report. Then, p
 6. [Stakeholder Memorandum](#stakeholder-memo)
 7. [Conclusion](#conclusion)
 
-
+----------
 # Introduction <a name="introduction">
