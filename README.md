@@ -21,15 +21,15 @@ The manager of the IT department has decided that an internal IT audit needs to 
 The IT manager starts by implementing the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF), establishing an audit scope and goals, listing assets currently managed by the IT department, and completing a risk assessment. The goal of the audit is to provide an overview of the risks and/or fines that the company might experience due to the current state of their security posture.
 
 Scope: Review Botium Toys internal Audit that assessed the following:
- - Current user permissions set in the following systems: accounting, end point
+- Current user permissions set in the following systems: accounting, end point
     detection, firewalls, intrusion detection system, security information and event
     management (SIEM) tool.
-  ● Current implemented controls in the following systems: accounting, end point
+- Current implemented controls in the following systems: accounting, end point
     detection, firewalls, intrusion detection system, Security Information and Event
     Management (SIEM) tool.
-  ● Current procedures and protocols set for the following systems: accounting,
+- Current procedures and protocols set for the following systems: accounting,
     end point detection, firewall, intrusion detection system, Security Information
     and Event Management (SIEM) tool.
-  ● Ensure current user permissions, controls, procedures, and protocols in place
+- Ensure current user permissions, controls, procedures, and protocols in place
     align with necessary compliance requirements.
-  ● Ensure current technology is accounted for. Both hardware and system access.
+  - Ensure current technology is accounted for. Both hardware and system access.
