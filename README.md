@@ -32,4 +32,4 @@ Scope: Review Botium Toys internal Audit that assessed the following:
     and Event Management (SIEM) tool.
 - Ensure current user permissions, controls, procedures, and protocols in place
     align with necessary compliance requirements.
-  - Ensure current technology is accounted for. Both hardware and system access.
+- Ensure current technology is accounted for. Both hardware and system access.
