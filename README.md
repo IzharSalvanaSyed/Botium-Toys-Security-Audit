@@ -108,18 +108,18 @@ detection and prevention systems.
 | Yes | No | Control |
 | ----- | ----- |---------------|
 | &#9744; | &#9745; | Least Privilege |
-| [ ] | [x] | Disaster recovery plans |
-| [ ] | [x] | Separation of duties |
-| [x] | [ ] | Firewall |
-| [ ] | [x] | Intrusion detection system (IDS) |
-| [ ] | [x] | Backups |
-| [x] | [ ] | Antivirus software |
-| [x] | [ ] | Manual monitoring, maintenance, and intervention for legacy systems |
-| [ ] | [x] | Encryption |
-| [ ] | [x] | Password management system |
-| [x] | [ ] | Locks (offices, storefront, warehouse) |
-| [x] | [ ] | Closed-circuit television (CCTV) surveillance |
-| [x] | [ ] | Fire detection/prevention (fire alarm, sprinkler system, etc.) |
+| &#9744; | &#9745; | Disaster recovery plans |
+| &#9744; | &#9745; | Separation of duties |
+| &#9745; | &#9744; | Firewall |
+| &#9744; | &#9745; | Intrusion detection system (IDS) |
+| &#9744; | &#9745; | Backups |
+| &#9745; | &#9744; | Antivirus software |
+| &#9745; | &#9744; | Manual monitoring, maintenance, and intervention for legacy systems |
+| &#9744; | &#9745; | Encryption |
+| &#9744; | &#9745; | Password management system |
+| &#9745; | &#9744; | Locks (offices, storefront, warehouse) |
+| &#9745; | &#9744; | Closed-circuit television (CCTV) surveillance |
+| &#9745; | &#9744; | Fire detection/prevention (fire alarm, sprinkler system, etc.) |
 
 
 ### Compliance Checklist
