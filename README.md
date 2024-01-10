@@ -57,6 +57,12 @@ management
 monitoring
 
 
+Checklist
+| Yes | No | Control |
+|---|---|---------------|
+| [x] | [x] | Least Privilege |
+
+
 ### Administrative Controls 
 | Control Name | Control type | Control Purpose | Priority |
 | --- | --- | --- | --- |
