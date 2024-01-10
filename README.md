@@ -134,10 +134,10 @@ Payment Card Industry Data Security Standard (PCI DSS)
 General Data Protection Regulation (GDPR)
 | Yes | No | Control |
 |---|---|---------------|
-| [x] | [ ] | Least Privilege |
-| [x] | [ ] | Least Privilege |
-| [x] | [ ] | Least Privilege |
-| [x] | [ ] | Least Privilege |
+| &#x2610; | &#x2612; | E.U. customers’ data is kept private/secured. |
+| &#x2612; | &#x2610; | There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach. |
+| &#x2610; | &#x2612; | Ensure data is properly classified and inventoried. |
+| &#x2610; | &#x2612; | Enforce privacy policies, procedures, and processes to properly document and maintain data. |
 
 
 ### Administrative Controls 
