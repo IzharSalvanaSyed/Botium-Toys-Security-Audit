@@ -57,10 +57,41 @@ management
 monitoring
 
 
-Checklist
+Control Assessment Checklist
 | Yes | No | Control |
 |---|---|---------------|
-| [x] | [x] | Least Privilege |
+| [x] | [ ] | Least Privilege |
+| [x] | [ ] | Disaster recovery plans |
+| [x] | [ ] | Password policies |
+| [x] | [ ] | Separation of duties |
+| [x] | [ ] | Firewall |
+| [x] | [ ] | Intrusion detection system (IDS) |
+| [x] | [ ] | Backups |
+| [x] | [ ] | Manual monitoring, maintenance, and intervention for legacy systems |
+| [x] | [ ] | Encryption |
+| [x] | [ ] | Password management system |
+| [x] | [ ] | Locks (offices, storefront, warehouse) |
+| [x] | [ ] | Closed-circuit television (CCTV) surveillance |
+| [x] | [ ] | Least Privilege |
+
+Compliance Checklist
+Payment Card Industry Data Security Standard (PCI DSS)
+----------
+| Yes | No | Control |
+|---|---|---------------|
+| [x] | [ ] | Least Privilege |
+| [x] | [ ] | Least Privilege |
+| [x] | [ ] | Least Privilege |
+| [x] | [ ] | Least Privilege |
+
+General Data Protection Regulation (GDPR)
+----------
+| Yes | No | Control |
+|---|---|---------------|
+| [x] | [ ] | Least Privilege |
+| [x] | [ ] | Least Privilege |
+| [x] | [ ] | Least Privilege |
+| [x] | [ ] | Least Privilege |
 
 
 ### Administrative Controls 
