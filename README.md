@@ -36,7 +36,7 @@ The IT manager starts by implementing the National Institute of Standards and Te
 
 
 ### Administrative Controls 
-| Control Name | Control type and explanation | Priority |
+| Control Name | Control type | Control Purpose | Priority |
 | --- | --- | --- |--- |
 | Least Privilege | Preventative | reduces risk by making sure vendors and non-authorized staff only have access to the assets/data they need to do their jobs | High |
 | Disaster recovery plans | Corrective | business continuity to ensure systems are able to run in the event of an incident/there is limited to no loss of productivity downtime/impact to system components, including: computer room environment (air conditioning, power supply, etc.); hardware (servers, employee equipment); connectivity (internal network, wireless); applications (email, electronic data) | data and restoration | High |
