@@ -96,7 +96,7 @@ General Data Protection Regulation (GDPR)
 
 ### Administrative Controls 
 | Control Name | Control type | Control Purpose | Priority |
-| --- | --- | --- | --- |
+| ------ | --- | --- | --- |
 | Least Privilege | Preventative | Reduces risk by making sure vendors and non-authorized staff only have access to the assets/data they need to do their jobs | High |
 | Disaster recovery plans | Corrective | Business continuity to ensure systems are able to run in the event of an incident/there is limited to no loss of productivity downtime/impact to system components, including: computer room environment (air conditioning, power supply, etc.); hardware (servers, employee equipment); connectivity (internal network, wireless); applications (email, electronic data) data and restoration | High |
 | Password policies | Preventative | Establish password strength rules to improve security/reduce the likelihood of account compromise through brute force or dictionary attack techniques | High |
@@ -106,7 +106,7 @@ General Data Protection Regulation (GDPR)
 
 ### Technical Controls 
 | Control Name | Control type | Control Purpose | Priority |
-| --- | --- | --- | --- |
+| ------ | --- | --- | --- |
 | Firewall | Preventative | Firewalls ***are already in place*** to filter unwanted/malicious traffic from entering internal network | NA |
 | Intrusion Detection System (IDS) | Detective | Allows IT team to identify possible intrusions (e.g., anomalous traffic) quickly | High |
 | Encryption | Deterrent | Makes confidential information/data more secure (e.g., website payment transactions) | High |
@@ -118,7 +118,7 @@ General Data Protection Regulation (GDPR)
 
 ### Physical Controls
 | Control Name | Control type | Control Purpose | Priority |
-| --- | --- | --- | --- |
+| ------ | --- | --- | --- |
 | Time-controlled safe | Deterrent | Reduce attack surface/impact of physical threats | Medium/Low |
 | Adequate lighting | Deterrent | Limit “hiding” places to deter threats | Medium/Low |
 | Closed-circuit television (CCTV) surveillance | Preventative/detective | Can reduce risk of certain events; can be used after event for investigation | High/Medium |
