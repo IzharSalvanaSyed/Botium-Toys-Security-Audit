@@ -107,20 +107,20 @@ detection and prevention systems.
 ### Control Assessment Checklist
 | Yes | No | Control |
 |---|---|---------------|
-| [ ] | [x] | Least Privilege |
-| [ ] | [x] | Disaster recovery plans |
-| [ ] | [x] | Password policies |
-| [ ] | [x] | Separation of duties |
-| [x] | [ ] | Firewall |
-| [ ] | [x] | Intrusion detection system (IDS) |
-| [ ] | [x] | Backups |
-| [x] | [ ] | Antivirus software |
-| [x] | [ ] | Manual monitoring, maintenance, and intervention for legacy systems |
-| [ ] | [x] | Encryption |
-| [ ] | [x] | Password management system |
-| [x] | [ ] | Locks (offices, storefront, warehouse) |
-| [x] | [ ] | Closed-circuit television (CCTV) surveillance |
-| [x] | [ ] | Fire detection/prevention (fire alarm, sprinkler system, etc.) |
+| [  ] | [ x ] | Least Privilege |
+| [  ] | [ x ] | Disaster recovery plans |
+| [  ] | [ x ] | Password policies |
+| [  ] | [ x ] | Separation of duties |
+| [ x ] | [  ] | Firewall |
+| [  ] | [ x ] | Intrusion detection system (IDS) |
+| [  ] | [ x ] | Backups |
+| [ x ] | [  ] | Antivirus software |
+| [ x ] | [  ] | Manual monitoring, maintenance, and intervention for legacy systems |
+| [  ] | [ x ] | Encryption |
+| [  ] | [ x ] | Password management system |
+| [ x ] | [  ] | Locks (offices, storefront, warehouse) |
+| [ x ] | [  ] | Closed-circuit television (CCTV) surveillance |
+| [ x ] | [  ] | Fire detection/prevention (fire alarm, sprinkler system, etc.) |
 
 
 ### Compliance Checklist
