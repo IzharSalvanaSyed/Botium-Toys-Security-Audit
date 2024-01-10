@@ -107,19 +107,19 @@ detection and prevention systems.
 ### Control Assessment Checklist
 | Yes | No | Control |
 | ----- | ----- |---------------|
-| &#9744; | &#9745; | Least Privilege |
-| &#9744; | &#9745; | Disaster recovery plans |
-| &#9744; | &#9745; | Separation of duties |
-| &#9745; | &#9744; | Firewall |
-| &#9744; | &#9745; | Intrusion detection system (IDS) |
-| &#9744; | &#9745; | Backups |
-| &#9745; | &#9744; | Antivirus software |
-| &#9745; | &#9744; | Manual monitoring, maintenance, and intervention for legacy systems |
-| &#9744; | &#9745; | Encryption |
-| &#9744; | &#9745; | Password management system |
-| &#9745; | &#9744; | Locks (offices, storefront, warehouse) |
-| &#9745; | &#9744; | Closed-circuit television (CCTV) surveillance |
-| &#9745; | &#9744; | Fire detection/prevention (fire alarm, sprinkler system, etc.) |
+| &#x2610; | &#x2611; | Least Privilege |
+| &#x2610; | &#x2611; | Disaster recovery plans |
+| &#x2610; | &#x2611; | Separation of duties |
+| &#x2611; | &#x2610; | Firewall |
+| &#x2610; | &#x2611; | Intrusion detection system (IDS) |
+| &#x2610; | &#x2611; | Backups |
+| &#x2611; | &#x2610; | Antivirus software |
+| &#x2611; | &#x2610; | Manual monitoring, maintenance, and intervention for legacy systems |
+| &#x2610; | &#x2611; | Encryption |
+| &#x2610; | &#x2611; | Password management system |
+| &#x2611; | &#x2610; | Locks (offices, storefront, warehouse) |
+| &#x2611; | &#x2610; | Closed-circuit television (CCTV) surveillance |
+| &#x2611; | &#x2610; | Fire detection/prevention (fire alarm, sprinkler system, etc.) |
 
 
 ### Compliance Checklist
