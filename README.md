@@ -161,7 +161,7 @@ System and Organizations Controls (SOC type 1, SOC type 2)
 ### Technical Controls 
 | Control Name | Control type | Control Purpose | Priority |
 | ------ | --- | --- | --- |
-| Firewall | Preventative | Firewalls ***are already in place*** to filter unwanted/malicious traffic from entering internal network | NA |
+| Firewall | Preventative | Firewalls to filter unwanted/malicious traffic from entering internal network | Low |
 | Intrusion Detection System (IDS) | Detective | Allows IT team to identify possible intrusions (e.g., anomalous traffic) quickly | High |
 | Encryption | Deterrent | Makes confidential information/data more secure (e.g., website payment transactions) | High |
 | Backups | Corrective | Supports ongoing productivity in the case of an event; aligns to the disaster recovery plan | High |
