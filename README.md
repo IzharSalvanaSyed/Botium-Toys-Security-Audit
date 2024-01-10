@@ -76,7 +76,6 @@ Control Assessment Checklist
 
 Compliance Checklist
 Payment Card Industry Data Security Standard (PCI DSS)
-----------
 | Yes | No | Control |
 |---|---|---------------|
 | [x] | [ ] | Least Privilege |
@@ -85,7 +84,6 @@ Payment Card Industry Data Security Standard (PCI DSS)
 | [x] | [ ] | Least Privilege |
 
 General Data Protection Regulation (GDPR)
-----------
 | Yes | No | Control |
 |---|---|---------------|
 | [x] | [ ] | Least Privilege |
