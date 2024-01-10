@@ -5,7 +5,7 @@ Review Botium's IT manager’s scope, goals, and risk assessment report. Then, p
 # Table of contents
 
 1. [Introduction](#introduction)
-2. [Internal Security Audit Workflow](#workflow)
+2. [Security Audit](#workflow)
 3. [Controls Assessment](#control-assessment)
 4. [Compliance Checklist](#compliance-checklist)
 5. [Stakeholder Memorandum](#stakeholder-memo)
@@ -34,13 +34,35 @@ The IT manager starts by implementing the National Institute of Standards and Te
     align with necessary compliance requirements.
 - Ensure current technology is accounted for. Both hardware and system access.
 
+# Security Audit<a name="workflow">
+
+
+Controls Assessment  <a name="control-assessment">
+===================
+Current assets
+Assets managed by the IT Department include:
+● On-premises equipment for in-office business needs
+● Employee equipment: end-user devices (desktops/laptops, smartphones),
+remote workstations, headsets, cables, keyboards, mice, docking stations,
+surveillance cameras, etc.
+● Storefront products available for retail sale on site and online; stored in the
+company’s adjoining warehouse
+● Management of systems, software, and services: accounting,
+telecommunication, database, security, ecommerce, and inventory
+management
+● Internet access
+● Internal network
+● Data retention and storage
+● Legacy system maintenance: end-of-life systems that require human
+monitoring
+
 
 ### Administrative Controls 
 | Control Name | Control type | Control Purpose | Priority |
 | --- | --- | --- | --- |
 | Least Privilege | Preventative | Reduces risk by making sure vendors and non-authorized staff only have access to the assets/data they need to do their jobs | High |
 | Disaster recovery plans | Corrective | Business continuity to ensure systems are able to run in the event of an incident/there is limited to no loss of productivity downtime/impact to system components, including: computer room environment (air conditioning, power supply, etc.); hardware (servers, employee equipment); connectivity (internal network, wireless); applications (email, electronic data) data and restoration | High |
-| Password policies | Preventative | Establish password strength rules to improve security/reduce likelihood of account compromise through brute force or dictionary attack techniques | High |
+| Password policies | Preventative | Establish password strength rules to improve security/reduce the likelihood of account compromise through brute force or dictionary attack techniques | High |
 | Access control policies | Preventative | Increase confidentiality and integrity of data | High |
 | Account management policies | Preventative | Reduce attack surface and limit overall impact from disgruntled/former employees | High |
 | Separation of duties | Preventative | Ensure no one has so much access that they can abuse the system for personal gain | High |
@@ -52,10 +74,9 @@ The IT manager starts by implementing the National Institute of Standards and Te
 | Intrusion Detection System (IDS) | Detective | Allows IT team to identify possible intrusions (e.g., anomalous traffic) quickly | High |
 | Encryption | Deterrent | Makes confidential information/data more secure (e.g., website payment transactions) | High |
 | Backups | Corrective | Supports ongoing productivity in the case of an event; aligns to the disaster recovery plan | High |
-| Password management system | Corrective | Password recovery, reset, lock out notifications | High |
+| Password management system | Corrective | Password recovery, reset, lockout notifications | High |
 | Antivirus (AV) software | Corrective | Detect and quarantine known threats | High |
-| Manual monitoring, maintenance, and intervention | Preventative/
-corrective | Required for legacy systems to identify and mitigate potential threats, risks, and vulnerabilities | High |
+| Manual monitoring, maintenance, and intervention | Preventative/corrective | Required for legacy systems to identify and mitigate potential threats, risks, and vulnerabilities | High |
 
 
 ### Physical Controls
