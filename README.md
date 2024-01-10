@@ -107,7 +107,7 @@ detection and prevention systems.
 ### Control Assessment Checklist
 | Yes | No | Control |
 | ----- | ----- |---------------|
-|  | x | Least Privilege |
+| &#9744; | &#9745; | Least Privilege |
 | [ ] | [x] | Disaster recovery plans |
 | [ ] | [x] | Separation of duties |
 | [x] | [ ] | Firewall |
