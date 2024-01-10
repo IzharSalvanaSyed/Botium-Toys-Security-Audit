@@ -6,8 +6,8 @@ Review Botium's IT manager’s scope, goals, and risk assessment report. Then, p
 
 1. [Introduction](#introduction)
 2. [Controls Assessment](#control-assessment)
-3. [Security Audit](#workflow)
-4. [Compliance Checklist](#compliance-checklist)
+3. [Botium's Internal Security Audit](#workflow)
+4. [Assessment Checklist](#checklist)
 5. [Stakeholder Memorandum](#stakeholder-memo)
 6. [Conclusion](#conclusion)
 
@@ -103,7 +103,7 @@ front, and warehouse of products, has sufficient locks, up-to-date
 closed-circuit television (CCTV) surveillance, as well as functioning fire
 detection and prevention systems.
 
-
+# Assessment Checlist<a name="checklist">
 ### Control Assessment Checklist
 | Yes | No | Control |
 | ----- | ----- |---------------|
