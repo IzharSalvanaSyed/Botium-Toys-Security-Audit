@@ -108,18 +108,18 @@ detection and prevention systems.
 | Yes | No | Control |
 |---|---|---------------|
 | <ul><li>- [ ] </li><li> | <ul><li>- [x] </li><li> | Least Privilege |
-| - [ ] | - [x] | Disaster recovery plans |
-| - [ ] | - [x]  | Separation of duties |
+| <ul><li>- [ ] </li><li> | - [x] | Disaster recovery plans |
+| <ul><li>- [ ] </li><li> | - [x]  | Separation of duties |
 | - [x] | - [ ] | Firewall |
-| - [ ] | - [x] | Intrusion detection system (IDS) |
-| - [ ] | - [x] | Backups |
-| - [x] | - [ ] | Antivirus software |
-| - [x] | - [ ] | Manual monitoring, maintenance, and intervention for legacy systems |
-| - [ ] | - [x] | Encryption |
-| - [ ] | - [x] | Password management system |
-| - [x] | - [ ] | Locks (offices, storefront, warehouse) |
-| - [x] | - [ ] | Closed-circuit television (CCTV) surveillance |
-| - [x] | - [ ] | Fire detection/prevention (fire alarm, sprinkler system, etc.) |
+| <ul><li>- [ ] </li><li> | - [x] | Intrusion detection system (IDS) |
+| <ul><li>- [ ] </li><li> | - [x] | Backups |
+| - [x] | |  | - [ ] | Antivirus software | | Antivirus software |
+| - [x] | |  | - [ ] | Antivirus software | | Manual monitoring, maintenance, and intervention for legacy systems |
+| |  | - [ ] | Antivirus software | | - [x] | Encryption |
+| |  | - [ ] | Antivirus software | | - [x] | Password management system |
+| - [x] | |  | - [ ] | Antivirus software | | Locks (offices, storefront, warehouse) |
+| - [x] | |  | - [ ] | Antivirus software | | Closed-circuit television (CCTV) surveillance |
+| - [x] | |  | - [ ] | Antivirus software | | Fire detection/prevention (fire alarm, sprinkler system, etc.) |
 
 
 ### Compliance Checklist
