@@ -54,7 +54,8 @@ The IT manager starts by implementing the National Institute of Standards and Te
 | Backups | Corrective | Supports ongoing productivity in the case of an event; aligns to the disaster recovery plan | High |
 | Password management system | Corrective | Password recovery, reset, lock out notifications | High |
 | Antivirus (AV) software | Corrective | Detect and quarantine known threats | High |
-| Manual monitoring, maintenance, and intervention | Preventative/corrective | Required for legacy systems to identify and mitigate potential threats, risks, and vulnerabilities | High |
+| Manual monitoring, maintenance, and intervention | Preventative/
+corrective | Required for legacy systems to identify and mitigate potential threats, risks, and vulnerabilities | High |
 
 
 ### Physical Controls
