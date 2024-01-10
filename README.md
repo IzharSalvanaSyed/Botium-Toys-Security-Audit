@@ -59,7 +59,7 @@ The IT manager starts by implementing the National Institute of Standards and Te
 
 ### Physical Controls
 | Control Name | Control type and explanation | Priority |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | Time-controlled safe | Deterrent; reduce attack surface/impact of physical threats | Medium/Low |
 | Adequate lighting | Deterrent; limit “hiding” places to deter threats | Medium/Low |
 | Closed-circuit television (CCTV) surveillance | Preventative/detective; can reduce risk of certain events; can be used after event for investigation | High/Medium |
