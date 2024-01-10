@@ -107,30 +107,30 @@ detection and prevention systems.
 ### Control Assessment Checklist
 | Yes | No | Control |
 |---|---|---------------|
-| [x] | [ ] | Least Privilege |
-| [x] | [ ] | Disaster recovery plans |
-| [x] | [ ] | Password policies |
-| [x] | [ ] | Separation of duties |
+| [ ] | [x] | Least Privilege |
+| [ ] | [x] | Disaster recovery plans |
+| [ ] | [x] | Password policies |
+| [ ] | [x] | Separation of duties |
 | [x] | [ ] | Firewall |
-| [x] | [ ] | Intrusion detection system (IDS) |
-| [x] | [ ] | Backups |
+| [ ] | [x] | Intrusion detection system (IDS) |
+| [ ] | [x] | Backups |
+| [x] | [ ] | Antivirus software |
 | [x] | [ ] | Manual monitoring, maintenance, and intervention for legacy systems |
-| [x] | [ ] | Encryption |
-| [x] | [ ] | Password management system |
+| [ ] | [x] | Encryption |
+| [ ] | [x] | Password management system |
 | [x] | [ ] | Locks (offices, storefront, warehouse) |
 | [x] | [ ] | Closed-circuit television (CCTV) surveillance |
-| [x] | [ ] | Least Privilege |
+| [x] | [ ] | Fire detection/prevention (fire alarm, sprinkler system, etc.) |
 
 
 ### Compliance Checklist
-
 Payment Card Industry Data Security Standard (PCI DSS)
 | Yes | No | Control |
 |---|---|---------------|
-| [x] | [ ] | Least Privilege |
-| [x] | [ ] | Least Privilege |
-| [x] | [ ] | Least Privilege |
-| [x] | [ ] | Least Privilege |
+| [x] | [ ] | E.U. customers’ data is kept private/secured. |
+| [x] | [ ] | There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach. |
+| [x] | [ ] | Ensure data is properly classified and inventoried. |
+| [x] | [ ] | Enforce privacy policies, procedures, and processes to properly document and maintain data. |
 
 General Data Protection Regulation (GDPR)
 | Yes | No | Control |
