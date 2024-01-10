@@ -41,19 +41,19 @@ Controls Assessment  <a name="control-assessment">
 ===================
 Current assets
 Assets managed by the IT Department include:
-● On-premises equipment for in-office business needs
-● Employee equipment: end-user devices (desktops/laptops, smartphones),
+- On-premises equipment for in-office business needs
+- Employee equipment: end-user devices (desktops/laptops, smartphones),
 remote workstations, headsets, cables, keyboards, mice, docking stations,
 surveillance cameras, etc.
-● Storefront products available for retail sale on site and online; stored in the
+- Storefront products available for retail sale on site and online; stored in the
 company’s adjoining warehouse
-● Management of systems, software, and services: accounting,
+- Management of systems, software, and services: accounting,
 telecommunication, database, security, ecommerce, and inventory
 management
-● Internet access
-● Internal network
-● Data retention and storage
-● Legacy system maintenance: end-of-life systems that require human
+- Internet access
+- Internal network
+- Data retention and storage
+- Legacy system maintenance: end-of-life systems that require human
 monitoring
 
 
