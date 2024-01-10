@@ -35,7 +35,6 @@ The IT manager starts by implementing the National Institute of Standards and Te
 - Ensure current technology is accounted for. Both hardware and system access.
 
 # Controls Assessment  <a name="control-assessment">
-===================
 Current assets
 Assets managed by the IT Department include:
 - On-premises equipment for in-office business needs
