@@ -124,7 +124,7 @@ detection and prevention systems.
 
 ### Compliance Checklist
 Payment Card Industry Data Security Standard (PCI DSS)
-| Yes | No | Control |
+| Yes | No | Best Practice |
 |---|---|---------------|
 | &#x2610; | &#x2612; | E.U. customers’ data is kept private/secured. |
 | &#x2610; | &#x2612; | There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach. |
@@ -132,12 +132,20 @@ Payment Card Industry Data Security Standard (PCI DSS)
 | &#x2610; | &#x2612; | Enforce privacy policies, procedures, and processes to properly document and maintain data. |
 
 General Data Protection Regulation (GDPR)
-| Yes | No | Control |
+| Yes | No | Best Practice |
 |---|---|---------------|
 | &#x2610; | &#x2612; | E.U. customers’ data is kept private/secured. |
 | &#x2612; | &#x2610; | There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach. |
 | &#x2610; | &#x2612; | Ensure data is properly classified and inventoried. |
 | &#x2610; | &#x2612; | Enforce privacy policies, procedures, and processes to properly document and maintain data. |
+
+System and Organizations Controls (SOC type 1, SOC type 2)
+| Yes | No | Best Practice |
+|---|---|---------------|
+| &#x2610; | &#x2612; | User access policies are established. |
+| &#x2612; | &#x2610; | Sensitive data (PII/SPII) is confidential/private. |
+| &#x2610; | &#x2612; | Data integrity ensures the data is consistent, complete, accurate, and has been validated. |
+| &#x2610; | &#x2612; | Data is available to individuals authorized to access it. |
 
 
 ### Administrative Controls 
