@@ -5,8 +5,8 @@ Review Botium's IT manager’s scope, goals, and risk assessment report. Then, p
 # Table of contents
 
 1. [Introduction](#introduction)
-2. [Security Audit](#workflow)
-3. [Controls Assessment](#control-assessment)
+2. [Controls Assessment](#control-assessment)
+3. [Security Audit](#workflow)
 4. [Compliance Checklist](#compliance-checklist)
 5. [Stakeholder Memorandum](#stakeholder-memo)
 6. [Conclusion](#conclusion)
@@ -34,10 +34,7 @@ The IT manager starts by implementing the National Institute of Standards and Te
     align with necessary compliance requirements.
 - Ensure current technology is accounted for. Both hardware and system access.
 
-# Security Audit<a name="workflow">
-
-
-Controls Assessment  <a name="control-assessment">
+# Controls Assessment  <a name="control-assessment">
 ===================
 Current assets
 Assets managed by the IT Department include:
@@ -55,6 +52,13 @@ management
 - Data retention and storage
 - Legacy system maintenance: end-of-life systems that require human
 monitoring
+
+# Botium's Internal Security Audit<a name="workflow">
+## Risk description
+Currently, there is inadequate management of assets. Additionally, Botium Toys does not have all of the proper controls in place and may not be fully compliant with U.S. and international regulations and standards.
+
+## Control best practices
+The first of the five functions of the NIST CSF is Identify. Botium Toys will need to dedicate resources to identify assets so they can appropriately manage them. Additionally, they will need to classify existing assets and determine the impact of the loss of existing assets, including systems, on business continuity.
 
 
 ### Control Assessment Checklist
