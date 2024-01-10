@@ -174,9 +174,9 @@ System and Organizations Controls (SOC type 1, SOC type 2)
 | Control Name | Control type | Control Purpose | Priority |
 | ------ | --- | --- | --- |
 | Time-controlled safe | Deterrent | Reduce attack surface/impact of physical threats | Medium/Low |
-| Adequate lighting | Deterrent | Limit “hiding” places to deter threats | Medium/Low |
-| Closed-circuit television (CCTV) surveillance | Preventative/detective | Can reduce risk of certain events; can be used after event for investigation | High/Medium |
-| Locking cabinets (for network gear) | Preventative | Increase integrity by preventing unauthorized personnel/individuals from physically accessing/modifying network infrastructure gear | High/Medium |
+| Adequate lighting | Deterrent | Limit “hiding” places to deter threats | Medium |
+| Closed-circuit television (CCTV) surveillance | Preventative/detective | Can reduce risk of certain events; can be used after event for investigation | High |
+| Locking cabinets (for network gear) | Preventative | Increase integrity by preventing unauthorized personnel/individuals from physically accessing/modifying network infrastructure gear | High |
 | Signage indicating alarm service provider | Deterrent | Makes the likelihood of a successful attack seem low | Low |
 | Locks | Preventative | Physical and digital assets are more secure | High |
 | Fire detection and prevention (fire alarm, sprinkler system, etc.) | Detective/Preventative | Detect fire in the toy store’s physical location to prevent damage to inventory, servers, etc. | Medium |
