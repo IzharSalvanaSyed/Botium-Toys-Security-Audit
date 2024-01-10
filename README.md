@@ -126,10 +126,10 @@ detection and prevention systems.
 Payment Card Industry Data Security Standard (PCI DSS)
 | Yes | No | Best Practice |
 |---|---|---------------|
-| &#x2610; | &#x2612; | E.U. customers’ data is kept private/secured. |
-| &#x2610; | &#x2612; | There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach. |
-| &#x2610; | &#x2612; | Ensure data is properly classified and inventoried. |
-| &#x2610; | &#x2612; | Enforce privacy policies, procedures, and processes to properly document and maintain data. |
+| &#x2610; | &#x2612; | Only authorized users have access to customers’ credit card information.  |
+| &#x2610; | &#x2612; | Credit card information is stored, accepted, processed, and transmitted internally, in a secure environment. |
+| &#x2610; | &#x2612; | Implement data encryption procedures to better secure credit card transaction touchpoints and data.. |
+| &#x2612; | &#x2610; | Adopt secure password management policies. |
 
 General Data Protection Regulation (GDPR)
 | Yes | No | Best Practice |
@@ -145,7 +145,7 @@ System and Organizations Controls (SOC type 1, SOC type 2)
 | &#x2610; | &#x2612; | User access policies are established. |
 | &#x2610; | &#x2612; | Sensitive data (PII/SPII) is confidential/private. |
 | &#x2612; | &#x2610; | Data integrity ensures the data is consistent, complete, accurate, and has been validated. |
-| &#x2612; | &#x2610; | Data is available to individuals authorized to access it. |
+| &#x2610; | &#x2612; | Data is available to individuals authorized to access it. |
 
 
 ### Administrative Controls 
