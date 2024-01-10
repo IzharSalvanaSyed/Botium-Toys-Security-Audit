@@ -74,7 +74,8 @@ Control Assessment Checklist
 | [x] | [ ] | Closed-circuit television (CCTV) surveillance |
 | [x] | [ ] | Least Privilege |
 
-Compliance Checklist
+
+###Compliance Checklist
 Payment Card Industry Data Security Standard (PCI DSS)
 | Yes | No | Control |
 |---|---|---------------|
