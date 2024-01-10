@@ -8,8 +8,9 @@ Review Botium's IT manager’s scope, goals, and risk assessment report. Then, p
 2. [Controls Assessment](#control-assessment)
 3. [Botium's Internal Security Audit](#workflow)
 4. [Assessment Checklist](#checklist)
-5. [Stakeholder Memorandum](#stakeholder-memo)
-6. [Conclusion](#conclusion)
+5. [Control Categories Assessment](#assessment)
+6. [Stakeholder Memorandum](#stakeholder-memo)
+7. [Conclusion](#conclusion)
 
 ----------
 # Introduction <a name="introduction">
@@ -148,6 +149,7 @@ System and Organizations Controls (SOC type 1, SOC type 2)
 | &#x2610; | &#x2612; | Data is available to individuals authorized to access it. |
 
 
+# Control Categories Assessment<a name="assessment">
 ### Administrative Controls 
 | Control Name | Control type | Control Purpose | Priority |
 | ------ | --- | --- | --- |
