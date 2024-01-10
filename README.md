@@ -143,9 +143,9 @@ System and Organizations Controls (SOC type 1, SOC type 2)
 | Yes | No | Best Practice |
 |---|---|---------------|
 | &#x2610; | &#x2612; | User access policies are established. |
-| &#x2612; | &#x2610; | Sensitive data (PII/SPII) is confidential/private. |
-| &#x2610; | &#x2612; | Data integrity ensures the data is consistent, complete, accurate, and has been validated. |
-| &#x2610; | &#x2612; | Data is available to individuals authorized to access it. |
+| &#x2610; | &#x2612; | Sensitive data (PII/SPII) is confidential/private. |
+| &#x2612; | &#x2610; | Data integrity ensures the data is consistent, complete, accurate, and has been validated. |
+| &#x2612; | &#x2610; | Data is available to individuals authorized to access it. |
 
 
 ### Administrative Controls 
