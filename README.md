@@ -126,7 +126,7 @@ detection and prevention systems.
 Payment Card Industry Data Security Standard (PCI DSS)
 | Yes | No | Control |
 |---|---|---------------|
-| [x] | [ ] | E.U. customers’ data is kept private/secured. |
+| <li>- [ ] </li> | <li>- [x] </li> | E.U. customers’ data is kept private/secured. |
 | [x] | [ ] | There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach. |
 | [x] | [ ] | Ensure data is properly classified and inventoried. |
 | [x] | [ ] | Enforce privacy policies, procedures, and processes to properly document and maintain data. |
