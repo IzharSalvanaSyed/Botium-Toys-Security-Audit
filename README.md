@@ -173,7 +173,7 @@ System and Organizations Controls (SOC type 1, SOC type 2)
 ### Physical Controls
 | Control Name | Control type | Control Purpose | Priority |
 | ------ | --- | --- | --- |
-| Time-controlled safe | Deterrent | Reduce attack surface/impact of physical threats | Medium/Low |
+| Time-controlled safe | Deterrent | Reduce attack surface/impact of physical threats | Medium |
 | Adequate lighting | Deterrent | Limit “hiding” places to deter threats | Medium |
 | Closed-circuit television (CCTV) surveillance | Preventative/detective | Can reduce risk of certain events; can be used after event for investigation | High |
 | Locking cabinets (for network gear) | Preventative | Increase integrity by preventing unauthorized personnel/individuals from physically accessing/modifying network infrastructure gear | High |
