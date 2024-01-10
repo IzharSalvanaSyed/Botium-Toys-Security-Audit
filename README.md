@@ -64,6 +64,6 @@ The IT manager starts by implementing the National Institute of Standards and Te
 | Adequate lighting | Deterrent | Limit “hiding” places to deter threats | Medium/Low |
 | Closed-circuit television (CCTV) surveillance | Preventative/detective | Can reduce risk of certain events; can be used after event for investigation | High/Medium |
 | Locking cabinets (for network gear) | Preventative | Increase integrity by preventing unauthorized personnel/individuals from physically accessing/modifying network infrastructure gear | High/Medium |
-| Signage indicating alarm service provider | Deterrent; makes the likelihood of a successful attack seem low | Low |
-| Locks | Preventative; physical and digital assets are more secure | High |
-| Fire detection and prevention (fire alarm, sprinkler system, etc.) | Detective/Preventative; detect fire in the toy store’s physical location to prevent damage to inventory, servers, etc. | Medium |
+| Signage indicating alarm service provider | Deterrent | Makes the likelihood of a successful attack seem low | Low |
+| Locks | Preventative | Physical and digital assets are more secure | High |
+| Fire detection and prevention (fire alarm, sprinkler system, etc.) | Detective/Preventative | Detect fire in the toy store’s physical location to prevent damage to inventory, servers, etc. | Medium |
