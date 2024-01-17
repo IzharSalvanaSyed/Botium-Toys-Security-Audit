@@ -9,8 +9,7 @@ Review Botium's IT manager’s scope, goals, and risk assessment report. Then, p
 3. [Botium's Internal Security Audit](#workflow)
 4. [Assessment Checklist](#checklist)
 5. [Control Categories Assessment](#assessment)
-6. [Stakeholder Memorandum](#stakeholder-memo)
-7. [Conclusion](#conclusion)
+6. [Recommendation/Summary](#Recommendation/Summary)
 
 ----------
 # Introduction <a name="introduction">
@@ -182,3 +181,14 @@ System and Organizations Controls (SOC type 1, SOC type 2)
 | Signage indicating alarm service provider | Deterrent | Makes the likelihood of a successful attack seem low | Low |
 | Locks | Preventative | Physical and digital assets are more secure | High |
 | Fire detection and prevention (fire alarm, sprinkler system, etc.) | Detective/Preventative | Detect fire in the toy store’s physical location to prevent damage to inventory, servers, etc. | Medium |
+
+
+# Recommendation/Summary <a name='Recommendation/Summary'>
+
+It is crucial that Botium Toys promptly addresses the critical findings related to PCI and GDPR compliance, as the company accepts online payments and is expanding its services to handle customers' data from the European Union. The audit goal should align with the SOC1 and SOC2 guidance related to user access policies, which should adapt to the concept of least permissions. This will help develop the policies and procedures necessary for compliance.
+
+To ensure business continuity in the event of an incident, such as a physical disaster or a cyber attack, it is recommended that Botium Toys have a disaster recovery plan and backups in place. Implementing fire detection and prevention systems to protect against physical attacks is also worth considering.
+
+Integrating IDS and AV software into the existing system will assist with intrusion detection and spot and mitigate potential risks while considering the existing legacy systems that need manual monitoring and intervention.
+
+Locks and CCTV should be used to secure physical assets at Botium Toys' physical location. Potential threats can be monitored with a time-controlled safe, adequate lighting, and signage indicating the alarm service provider.
