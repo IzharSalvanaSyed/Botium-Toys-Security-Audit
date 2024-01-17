@@ -183,7 +183,7 @@ System and Organizations Controls (SOC type 1, SOC type 2)
 | Fire detection and prevention (fire alarm, sprinkler system, etc.) | Detective/Preventative | Detect fire in the toy store’s physical location to prevent damage to inventory, servers, etc. | Medium |
 
 
-# Recommendation/Summary <a name='Recommendation/Summary'>
+# Recommendation/Summary <a name="Recommendation/Summary">
 
 It is crucial that Botium Toys promptly addresses the critical findings related to PCI and GDPR compliance, as the company accepts online payments and is expanding its services to handle customers' data from the European Union. The audit goal should align with the SOC1 and SOC2 guidance related to user access policies, which should adapt to the concept of least permissions. This will help develop the policies and procedures necessary for compliance.
 
