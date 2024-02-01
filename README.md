@@ -2,7 +2,7 @@
 
 Review Botium's IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist. 
 
-# Table of contents
+## Table of contents
 
 1. [Introduction](#introduction)
 2. [Controls Assessment](#control-assessment)
@@ -12,7 +12,7 @@ Review Botium's IT manager’s scope, goals, and risk assessment report. Then, p
 6. [Recommendation/Summary](#summary)
 
 ----------
-# Introduction <a name="introduction">
+## Introduction <a name="introduction">
 
 Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location, which serves as their main office, a storefront, and warehouse for their products. However, Botium Toy’s online presence has grown, attracting customers in the U.S. and abroad. As a result, their information technology (IT) department is under increasing pressure to support their online market worldwide. 
 
@@ -34,7 +34,7 @@ The IT manager starts by implementing the National Institute of Standards and Te
     align with necessary compliance requirements.
 - Ensure current technology is accounted for. Both hardware and system access.
 
-# Controls Assessment  <a name="control-assessment">
+## Controls Assessment  <a name="control-assessment">
 ### Current assets
 Assets managed by the IT Department include:
 - On-premises equipment for in-office business needs
@@ -52,7 +52,7 @@ management
 - Legacy system maintenance: end-of-life systems that require human
 monitoring
 
-# Botium's Internal Security Audit<a name="workflow">
+## Botium's Internal Security Audit<a name="workflow">
 ### Risk description
 Currently, there is inadequate management of assets. Additionally, Botium Toys does not have all of the proper controls in place and may not be fully compliant with U.S. and international regulations and standards.
 
@@ -103,7 +103,7 @@ front, and warehouse of products, has sufficient locks, up-to-date
 closed-circuit television (CCTV) surveillance, as well as functioning fire
 detection and prevention systems.
 
-# Assessment Checlist<a name="checklist">
+## Assessment Checlist<a name="checklist">
 ### Control Assessment Checklist
 | Yes | No | Control |
 | ----- | ----- |---------------|
@@ -148,7 +148,7 @@ System and Organizations Controls (SOC type 1, SOC type 2)
 | &#x2610; | &#x2612; | Data is available to individuals authorized to access it. |
 
 
-# Control Categories Assessment<a name="assessment">
+## Control Categories Assessment<a name="assessment">
 ### Administrative Controls 
 | Control Name | Control type | Control Purpose | Priority |
 | ------ | --- | --- | --- |
@@ -183,7 +183,7 @@ System and Organizations Controls (SOC type 1, SOC type 2)
 | Fire detection and prevention (fire alarm, sprinkler system, etc.) | Detective/Preventative | Detect fire in the toy store’s physical location to prevent damage to inventory, servers, etc. | Medium |
 
 
-# Recommendation/Summary<a name="summary">
+## Recommendation/Summary<a name="summary">
 
 It is crucial that Botium Toys promptly addresses the critical findings related to PCI and GDPR compliance, as the company accepts online payments and is expanding its services to handle customers' data from the European Union. The audit goal should align with the SOC1 and SOC2 guidance related to user access policies, which should adapt to the concept of least permissions. This will help develop the policies and procedures necessary for compliance.
 
